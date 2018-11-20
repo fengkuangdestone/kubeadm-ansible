@@ -31,7 +31,7 @@ ansible --version
 Clone project：
 
 ```
-git clone https://github.com/choerodon/kubeadm-ansible.git
+git clone https://github.com/fengkuangdestone/kubeadm-ansible.git
 ```
 
 ## 2. Modify hosts

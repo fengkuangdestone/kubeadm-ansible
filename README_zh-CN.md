@@ -25,7 +25,7 @@ ansible --version
 克隆项目：
 
 ```
-git clone https://github.com/choerodon/kubeadm-ansible.git
+git clone https://github.com/fengkuangdestone/kubeadm-ansible.git
 ```
 
 ## 2. 修改hosts
